@@ -1,0 +1,247 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elektriese stroombane</title>
+  <metadata>
+  <md:content-id>m20567</md:content-id><md:title>Elektriese stroombane</md:title>
+  <md:abstract/>
+  <md:uuid>589c1d4d-8be2-497e-ae09-45e0ff006dd7</md:uuid>
+</metadata>
+
+<content>
+    <section id="id23030798">
+      <title>NATUURWETENSKAPPE</title>
+      <para id="para-id23030798">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id23208056">
+      <title>Graad 8</title>
+      <para id="para-id23208056">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id23203087">
+      <title>ENERGIE: ELEKTRISITEIT, ENERGIE, WARMTE EN LIG</title>
+      <para id="para-id23203087">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id23203096">
+      <title>Module 7</title>
+      <para id="para-id23203096">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id23099273">
+      <title>ELEKTRIESE STROOMBANE</title>
+      <para id="id23114523">‘n Elektriese stroombaan bestaan uit:</para>
+      <para id="id23125324"> ‘n bron (sel of battery)</para>
+      <para id="id23125330"> geleiers (drade)</para>
+      <para id="id22266345"> ‘n skakelaar (beheerpunt)</para>
+      <para id="id22266351"> ander komponente soos gloeilampies, weerstande en meetinstrumente.</para>
+      <para id="id23155612">‘n Battery is ‘n versameling selle.</para>
+      <section id="id23155616">
+        <title>Aktiwiteit:</title>
+        <para id="para-id23155616">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id21752986">
+        <title>Om ondersoek in te stel na die verskillende komponente in ‘n stroombaan en hul simbole</title>
+        <para id="para-id21752986">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id21752996">
+        <title>[LU 2.3]</title>
+        <para id="id22034903">Opdrag 1:</para>
+        <para id="id22034907"> Teken ‘n eenvoudige skets van ‘n enkele flitssel in die linkerkolom. Die  uitstaanknoppiegedeelte is die positiewe pool en die anderkant is die negatiewe pool. Voeg hierdie byskrifte in.</para>
+        <para id="id23137370"> Teken nou aan die regterkant drie flitsselle langs mekaar – kop-aan-stert, m.a.w. positief aan negatief. </para>
+        <para id="id23137379"> Hulle vorm ‘n battery en is in serie geskakel.</para>
+        <table id="id23127120" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Sel</entry>
+                <entry>Battery</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id22226977">Wanneer jy nou ‘n klomp komponente moet teken, kan dit lastig en omslagtig raak.</para>
+        <para id="id22297675">Jy moet dus simbole hê wat soos kortpaaie werk. Gelukkig het wetenskaplikes alreeds simbole uitgedink; dit word internasionaal gebruik.</para>
+        <para id="id22297682">Die volgende simbole word gebruik:</para>
+        <table id="id23238490" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><media id="id23097374" alt=""><image mime-type="image/png" src="../../media/graphics1-cd8a.png"/></media> vir ‘n<emphasis effect="bold"> koperdraad:</emphasis>vir ‘n<emphasis effect="bold"> gloeilamp:</emphasis>vir ‘n<emphasis effect="bold"> sel </emphasis>(die lang dun vertikale strepie is die +):<emphasis effect="bold"/>vir ‘n ammeter (meet sterkte van stroom):     vir ‘n<emphasis effect="bold"> skakelaar:  Oop:</emphasis><emphasis effect="bold">Geslote:</emphasis></entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id23029968">‘n Stroomdiagram toon altyd hierdie komponente of dele van die stroom. Aanvanklik plaas ons alle komponente langs mekaar – ons sê dit is in serie. Die diagram word altyd in ‘n reghoekvorm geteken. ‘n Eenvoudige stroombaandiagram sal soos volg lyk:</para>
+        <figure id="id23216040">
+          <media id="id23216040_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-dc87.png" id="id23216040__onlineimage" height="323" width="498"/>
+          </media>
+        </figure>
+        <para id="id22034576">Jy kom seker agter dat daar meer dinge is om van te leer. Alle gloeilampe is voorwaar nie in serie geskakel nie – sommige is in parallel geskakel. Hier word komponente langs mekaar geplaas en soos volg gekoppel:</para>
+        <figure id="id23133664">
+          <media id="id23133664_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-40f5.png" id="id23133664__onlineimage" height="322" width="471"/>
+          </media>
+        </figure>
+        <para id="id23123131">Opdrag 2:</para>
+        <para id="id23123136">Teken nou drie gloeilampe in parallelle koppeling. Gebruik simbole.</para>
+        <para id="id22538461">In so ‘n parallelle skakeling word die stroom verdeel. Indien een van die gloeilampies nou onklaar raak, sal die ander aanhou gloei!</para>
+        <para id="id23161175">Jou huis se gloeilampe is dus in   skakeling.</para>
+      </section>
+    </section>
+    <section id="id23161184">
+      <title>Assessering</title>
+      <para id="id22562320">LU 1</para>
+      <para id="id22562324"><emphasis effect="bold">Wetenskaplike Ondersoek</emphasis>Die leerder is in staat om met selfvertroue op weetgierigheid oor natuurlike verskynsels te reageer, en om binne die konteks van wetenskap, tegnologie en die omgewing verbande te ondersoek en probleme op te los.</para>
+      <para id="id22289645">Dit word bewys as die leerder:</para>
+      <para id="id22289649">1.1 ondersoeke kan beplan;</para>
+      <para id="id23149960">1.2 ondersoeke kan uitvoer en data kan insamel;</para>
+      <para id="id23048461">1.3 data kan evalueer en bevindinge kan kommunikeer.</para>
+      <para id="id22213068">LU 2</para>
+      <para id="id22213072">Wetenskaplike KennisDie leerder ken, interpreteer en pas wetenskaplike, tegnologiese en omgewingskennis toe.</para>
+      <para id="id23043314">Dit word bewys as die leerder:</para>
+      <para id="id23043318">2.1 sinvolle inligting kan oproep;</para>
+      <para id="id23043324">2.2 inligting in kategorieë kan plaas;</para>
+      <para id="id23127068">2.3 inligting kan interpreteer;</para>
+      <para id="id22324971">2.4 kennis kan toepas.</para>
+      <para id="id23197375">LU 3</para>
+      <para id="id23197379">Wetenskap, Omgewing en die GemeenskapDie leerder is in staat om begrip van die onderlinge verband tussen wetenskap en tegnologie, die samelewing en die omgewing te toon.</para>
+      <para id="id23086748">Dit word bewys as die leerder:</para>
+      <para id="id23086753">3.1 wetenskap as ‘n menslike aktiwiteit kan verstaan;</para>
+      <para id="id22537438">3.2 volhoubare gebruik van die aarde se hulpbronne verstaan.</para>
+    </section>
+    <section id="id22532388">
+      <title/>
+      <para id="para-id22532388">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id22532396">
+      <title>Memorandum</title>
+      <para id="id21748552">ELEKTRIESE STROOMBANE</para>
+      <para id="id21748556">Aktiwiteit</para>
+      <para id="id23181081">Opdrag 1:</para>
+      <para id="id23181085">‘n Elektriese stroombaan bestaan gewoontlik uit:</para>
+      <para id="id23089094">1. ‘n Energiebron en geslote kring / baan. Die res is nie voorvereistes vir stroomvloei.</para>
+      <para id="id23083875">2. ‘n bron – sel of battery</para>
+      <para id="id23083881"> geleiers – drade</para>
+      <para id="id23116335"> ‘n skakelaar – beheerpunt</para>
+      <para id="id23116340"> ander komponente soos gloeilampies, weerstande en meetinstrumente.</para>
+      <para id="id22577349">selbattery</para>
+      <para id="id22329503">Positiewe poolpool</para>
+      <para id="id22239239"/>
+      <para id="id22037526"/>
+      <para id="id22238956">‘n Battery is ‘n versameling selle.</para>
+      <para id="id22238960">Wanneer ‘n klomp komponente geteken moet word, kan dit lastig en omslagtig wees. Daar is dus simbole wat soos kortpaaie werk. Gelukkig het wetensakplikes hulle alreeds uitgedink en word dit internasionaal gebruik.</para>
+      <para id="id23097718"><figure id="id23097721"><media id="id23097721_media" alt=""><image mime-type="image/png" src="../../media/graphics4-cd8a.png" id="id23097721__onlineimage" height="255" width="88"/></media></figure>‘n Koperdraad word deur ‘n strepie voorgestel </para>
+      <para id="id22323999">‘n Gloeilamp word as volg voorgestel  </para>
+      <para id="id23216509">
+        <emphasis effect="bold">‘n Sel (die lang dun vertikale strepie is die +</emphasis>
+        <emphasis effect="bold">e</emphasis>
+        <emphasis effect="bold"> pool </emphasis>
+      </para>
+      <para id="id22265749">‘n Ammeter (meet sterkte van stroom) </para>
+      <para id="id23354451">‘n Skakelaar    </para>
+      <para id="id23354459">Aktiwiteit </para>
+      <para id="id23192758">OPDRAG 1:</para>
+      <list id="id23192762" list-type="bulleted">
+        <item>‘n Stroomdiagram het altyd hierdie komponente of dele van die stroom in. </item>
+        <item>Aanvanklik plaas ons alle komponente langs mekaar – ons sê dit is in serie.</item>
+        <item>Die diagram word altyd in ‘n reghoekigevorm geteken. <emphasis effect="bold">‘n Tipiese een lyk soos volg:</emphasis></item>
+      </list>
+      <para id="id22025358">‘n stroombaandiagram van 3 selle in serie, ‘n oop skakelaar, twee gloeilampies in serie en ‘n ammeter.</para>
+      <para id="id22025364">
+        <figure id="id22022840">
+          <media id="id22022840_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5-dc87.png" id="id22022840__onlineimage" height="280" width="431"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id23183027">Parallelle koppeling is soms ‘n probleem om te verstaan. In die geval van selle lyk dit as volg:</para>
+      <figure id="id23213593">
+        <media id="id23213593_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics6-2e33.png" id="id23213593__onlineimage" height="278" width="406"/>
+        </media>
+      </figure>
+      <para id="id22317136">Gloeilampe se parallelle skakeling lyk soos volg:</para>
+      <list id="id23126355" list-type="bulleted">
+        <item>drie gloeilampe in parallelle koppeling – gebruik simbole</item>
+      </list>
+      <para id="id22034784"/>
+      <para id="id23076425"/>
+      <para id="id23136628"/>
+      <para id="id23195102"/>
+      <para id="id23224773"/>
+      <para id="id23218513">Huishoudelike gloeilampe is dus in PARALLELLE SKAKELING</para>
+      <para id="id23072504">ELEKTRISITEIT EN GEBRUIKE IN DIE HUIS</para>
+      <para id="id23072508"> DIE GLOEILAMP:</para>
+      <list id="id23028450" list-type="bulleted">
+        <item>Kom ons begin by die gloeilamp. Vroeër is gesê dat die gloeilamp eintlik ‘n baie oneffektiewe benutting van die elektriese krag is. Ons het gesê 95 van die 100J word afgegee aan hitte en slegs 5J aan ligenergie.</item>
+        <item>Ons moet dus aan meer ekonomiese manier vir ons beligting dink. Alvorens ons hierdie saak egter verder bekyk, moet ons weet waaruit die tipiese gloeilamp bestaan.</item>
+        <item>Die gloeilamp bestaan uit ‘n glasbol gevul met ‘n spesiale gas – en dis nie suurstof nie.</item>
+      </list>
+      <para id="id23132167">Hoekom nie? Ons sal nou sien. Die klein draadjies binne-in ‘n gloeilamp is opgerol in klein spiraaltjies – dit is eintlik ‘n spesiale metaalfilament van tungsten en dit het ‘n hoë weerstand – dit probeer die stroom keer daarom word dit vreeslik warm en van die warmte begin dit witwarm gloei! As die gas in die bol suurstof was, sou die hele spulletjie smelt. Die holte is gevul met ‘n onskadelike en stabiele gas – Argon. </para>
+      <figure id="id22035156">
+        <media id="id22035156_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics7-d1f5.png" id="id22035156__onlineimage" height="247" width="227"/>
+        </media>
+      </figure>
+      <para id="id23099468">BUISLIGTE:</para>
+      <para id="id23099472"> Buisligte of fluoresserende ligte word baie in kantore en skole en soms in huise aangetref. Buisligte is gevul met ‘n spesiale gas en wanneer ‘n elektriese stroom daardeur gaan straal die chemiese stof wat die buis uitvoer lig uit. Buisligte word nie baie warm nie, wat alreeds iets verklap van sy effektiwiteit.</para>
+      <para id="id23167749">EKO-LAMPE:</para>
+      <para id="id23162130"> Wanneer toestelle hulle elektriese toevoer effektief gebruik, is dit vir ons wat vir die elektrisiteit betaal van belang. Buisligte en eko-lampe kos nou wel meer, maar hou baie langer.</para>
+      <table id="id23145413" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Koste</entry>
+              <entry>Onderhoud</entry>
+              <entry>Effektiwiteit tov elektrisiteit-gebruik</entry>
+              <entry>Besparing</entry>
+            </row>
+            <row>
+              <entry>Gloeilampe</entry>
+              <entry>Gemiddelde</entry>
+              <entry>Gereeld vervang</entry>
+              <entry>Aanvaarbaar</entry>
+              <entry>Nie juis</entry>
+            </row>
+            <row>
+              <entry>Buisligte</entry>
+              <entry>Duurder</entry>
+              <entry>Baie min</entry>
+              <entry>Goed</entry>
+              <entry>Goed</entry>
+            </row>
+            <row>
+              <entry>Eko-lampe</entry>
+              <entry>duurste</entry>
+              <entry>Nog minder</entry>
+              <entry>Uitstekend</entry>
+              <entry>Uitstekend</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>

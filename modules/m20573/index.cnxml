@@ -1,0 +1,280 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elektriese taal</title>
+  <metadata>
+  <md:content-id>m20573</md:content-id><md:title>Elektriese taal</md:title>
+  <md:abstract/>
+  <md:uuid>e47cbb83-a000-432e-b344-2cf164c84e24</md:uuid>
+</metadata>
+
+<content>
+    <section id="id21223710">
+      <title>NATUURWETENSKAPPE</title>
+      <para id="para-id21223710">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id27413794">
+      <title>Graad 8</title>
+      <para id="para-id27413794">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12012698">
+      <title>ENERGIE: ELEKTRISITEIT, ENERGIE, WARMTE EN LIG</title>
+      <para id="para-id12012698">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7950550">
+      <title>Module 8</title>
+      <para id="para-id7950550">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id23985461">
+      <title>ELEKTRIESE TAAL</title>
+      <list id="id13503874" list-type="bulleted">
+        <item>Daar is ‘n klomp woorde en terme wat jy moet ken om verdere studies te kan doen.</item>
+      </list>
+      <section id="id3536765">
+        <title>Aktiwiteit:</title>
+        <para id="para-id3536765">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id25839139">
+        <title>Om die terme wat in studies oor elektrisiteit gebruik word, onder die knie te kry</title>
+        <para id="para-id25839139">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id25687512">
+        <title>[LO 1.1, 1.2, 1.3, 2.4, 3.1]</title>
+        <table id="id8516160" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>TERM</entry>
+                <entry>SIMBOOL</entry>
+                <entry>VERDUIDELIKING</entry>
+              </row>
+              <row>
+                <entry>Ampère</entry>
+                <entry>A</entry>
+                <entry>Eenheid waarin stroom gemeet word.</entry>
+              </row>
+              <row>
+                <entry>Coulomb</entry>
+                <entry>C</entry>
+                <entry>Die eenheid waarin elektriese lading wat gestoor kan word, gemeet word.</entry>
+              </row>
+              <row>
+                <entry>Gelykstroom (“direct current”)</entry>
+                <entry>DC</entry>
+                <entry>Stroomrigting bly dieselfde en in een rigting</entry>
+              </row>
+              <row>
+                <entry>Wisselstroom(“Alternate current”)</entry>
+                <entry>AC</entry>
+                <entry>Stroomrigting wissel</entry>
+              </row>
+              <row>
+                <entry>Potensiaalverskil</entry>
+                <entry>PV</entry>
+                <entry>Druk op elektrisiteit wat een volt lewer</entry>
+              </row>
+              <row>
+                <entry>Volt</entry>
+                <entry>V</entry>
+                <entry>Standaardeenheid van meting van die drukkrag in elektrisiteit</entry>
+              </row>
+              <row>
+                <entry>Watt</entry>
+                <entry>W</entry>
+                <entry>Standaardeenheid van meting van drywing.</entry>
+              </row>
+              <row>
+                <entry>Ohm</entry>
+                <entry>Ω</entry>
+                <entry>Eenheid waarin weerstand gemeet word.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id13490143">Opdrag 1:</para>
+        <para id="id16329884">Voltooi die volgende tabel:</para>
+        <table id="id27612314" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>SIMBOOL</entry>
+                <entry>TERM</entry>
+                <entry>VERDUIDELIKING</entry>
+              </row>
+              <row>
+                <entry>Ω</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>C</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>A</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>AC</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>PV</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id20765517">Die bydraes van wetenskaplikes deur die eeue het baie gehelp om ons begrip van en die ontwerp van toestelle wat vandag ons lewe vergemaklik, te verhelder.</para>
+        <para id="id5576734">Opdrag 2:</para>
+        <para id="id9176572">Vind meer uit oor een van die volgende en maak ‘n plakkaat wat jy in jou klas kan opsit.</para>
+        <list id="id6183836" list-type="bulleted">
+          <item>Benjamin Franklin</item>
+          <item>Nicola Tesla</item>
+          <item>Alessandro Volta</item>
+          <item>Georg Simon Ohm</item>
+          <item>André Marie Ampère</item>
+          <item>Charles Coulomb</item>
+        </list>
+        <para id="id9318690">Jy sal oplet dat baie van die vorige terme na hulle vernoem is.</para>
+      </section>
+    </section>
+    <section id="id10169938">
+      <title>Assessering</title>
+      <para id="id27590834">LU 1</para>
+      <para id="id26391415"><emphasis effect="bold">Wetenskaplike Ondersoek</emphasis>Die leerder is in staat om met selfvertroue op weetgierigheid oor natuurlike verskynsels te reageer, en om binne die konteks van wetenskap, tegnologie en die omgewing verbande te ondersoek en probleme op te los.</para>
+      <para id="id13060796">Dit word bewys as die leerder:</para>
+      <para id="id11224390">1.1 ondersoeke kan beplan;</para>
+      <para id="id3960596">1.2 ondersoeke kan uitvoer en data kan insamel;</para>
+      <para id="id23947892">1.3 data kan evalueer en bevindinge kan kommunikeer.</para>
+      <para id="id16462033">LU 2</para>
+      <para id="id11233970">Wetenskaplike KennisDie leerder ken, interpreteer en pas wetenskaplike, tegnologiese en omgewingskennis toe.</para>
+      <para id="id5617334">Dit word bewys as die leerder:</para>
+      <para id="id3634755">2.1 sinvolle inligting kan oproep;</para>
+      <para id="id5063296">2.2 inligting in kategorieë kan plaas;</para>
+      <para id="id27421966">2.3 inligting kan interpreteer;</para>
+      <para id="id14000293">2.4 kennis kan toepas.</para>
+      <para id="id23683753">LU 3</para>
+      <para id="id12881677">Wetenskap, Omgewing en die GemeenskapDie leerder is in staat om begrip van die onderlinge verband tussen wetenskap en tegnologie, die samelewing en die omgewing te toon.</para>
+      <para id="id3572919">Dit word bewys as die leerder:</para>
+      <para id="id8397703">3.1 wetenskap as ‘n menslike aktiwiteit kan verstaan;</para>
+      <para id="id3948087">3.2 volhoubare gebruik van die aarde se hulpbronne verstaan.</para>
+    </section>
+    <section id="id14002258">
+      <title/>
+      <para id="para-id14002258">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8841132">
+      <title>Memorandum</title>
+      <para id="id10306402">ELEKTRIESE TAAL</para>
+      <para id="id7312413">Aktiwiteit</para>
+      <para id="id3549085">Opdrag 1:</para>
+      <para id="id18506775"> Daar is ‘n klomp woorde en terme wat leerders moet ken om verdere studies te kan doen</para>
+      <table id="id3915788" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Term</entry>
+              <entry>Simbool</entry>
+              <entry>Verduideliking</entry>
+            </row>
+            <row>
+              <entry>Ampère</entry>
+              <entry>A</entry>
+              <entry>Die hoeveelheid elektriese stroom</entry>
+            </row>
+            <row>
+              <entry>Coulomb</entry>
+              <entry>C</entry>
+              <entry>Die hoeveelheid elektriese lading wat gestoor kan word</entry>
+            </row>
+            <row>
+              <entry>Direkte stroom(“direct current”)</entry>
+              <entry>DC</entry>
+              <entry>Stroomrigting bly dieselfde en in een rigting</entry>
+            </row>
+            <row>
+              <entry>Alternerende stroom(“Alternate current”)</entry>
+              <entry>AC</entry>
+              <entry>Stroomrigting wissel</entry>
+            </row>
+            <row>
+              <entry>Potensiaalverskil</entry>
+              <entry>PV</entry>
+              <entry>Druk op elektrisiteit wat een volt lewer</entry>
+            </row>
+            <row>
+              <entry>Volt</entry>
+              <entry>V</entry>
+              <entry>Standaardeenheid van meting van die drukkrag in elektrisiteit</entry>
+            </row>
+            <row>
+              <entry>Watt</entry>
+              <entry>W</entry>
+              <entry>Standaardeenheid van elektriese krag</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3897842">Opdrag 2:</para>
+      <para id="id17342476"> Die bydraes van wetenskaplikes deur die eeue het baie bygedra tot ons begrip van en die ontwerp van toestelle wat vandag ons lewe vergemaklik.</para>
+      <para id="id24136072"> Van die belangrikes wat die leerders moet ondersoek, is:</para>
+      <list id="id12288268" list-type="bulleted">
+        <item>Benjamin Franklin:</item>
+        <item>(1706-1790)</item>
+        <item>In 1752 vlieg hy ‘n vlieër met ‘n metaalsleutel tydens ‘n donderstorm. Hy sien vonke spat en besef dat weerlig elektrisiteit dra.</item>
+        <item>Hy het aanvanklik gereken elektrisiteit is ‘n wondervloeistof.</item>
+      </list>
+      <list id="id24795622" list-type="bulleted">
+        <item>Nicola Tesla:</item>
+        <item>(1856-1943)</item>
+        <item>Hy het die wisselstroom-idee geskep en, die Tesla-winding ontwerp wat groot transformasies en voltladings kon dra. Dis in radio-tegnologie gebruik.</item>
+      </list>
+      <list id="id11809820" list-type="bulleted">
+        <item>Alessandro Volta:</item>
+        <item>(1745-1827)</item>
+        <item>In 1800 ontdek hy dat twee metale geskei kon word deur elektrisiteit </item>
+        <item>deur chemiese vloeistowwe te stuur. Dit was die eerste elektriese selle. Hy’t selle bymekaar gesit en die eerste battery geproduseer. </item>
+      </list>
+      <list id="id11131104" list-type="bulleted">
+        <item>Georg Simon Ohm:</item>
+        <item>Hy bewys dat alle geleiers, selfs metale, weerstand bied teen elektriese stroom.</item>
+      </list>
+      <list id="id26113483" list-type="bulleted">
+        <item>André Marie Ampère:</item>
+        <item>(1775-1830)</item>
+        <item>Hy het die elektromagnetiese effek ontdek. Hy’t ook die idee van ‘n solenoïed ontdek.</item>
+      </list>
+      <list id="id24851130" list-type="bulleted">
+        <item>Charles Coulomb:</item>
+        <item>(1736-1806)</item>
+        <item>Ontdek ladings en kragte wat aantrek en afstoot by magnete.</item>
+      </list>
+    </section>
+  </content>
+</document>

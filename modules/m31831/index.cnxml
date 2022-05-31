@@ -1,0 +1,927 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elemente en  verbindings</title>
+  <metadata>
+  <md:content-id>m31831</md:content-id><md:title>Elemente en  verbindings</md:title>
+  <md:abstract/>
+  <md:uuid>65313ec2-6058-4244-b278-a638970cc490</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7587718">
+      <title>NATUURWETENSKAPPE</title>
+      <para id="para-id7587718">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7155091">
+      <title>Graad 8</title>
+      <para id="para-id7155091">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5643635">
+      <title>MATERIE</title>
+      <para id="para-id5643635">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8161259">
+      <title>Module 19</title>
+      <para id="para-id8161259">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2515270">
+      <title>ELEMENTE EN VERBINDINGS</title>
+      <para id="id6821903">Elemente</para>
+      <list id="id7611249" list-type="bulleted">
+        <item>Een van die basiese stelle van informasie in die natuurwetenskap is die lys van elemente.</item>
+        <item>Ons noem dit die <emphasis effect="italics">Periodieke Tabel.</emphasis></item>
+        <item>Daar is 112 elemente op hierdie tabel, waarvan 90 natuurlik voorkom op ons planeet of, sover aan ons bekend, in die ruimte om ons.</item>
+        <item>Die res is kunsmatig vervaardig in wetenskaplaboratoriums.</item>
+        <item>Die elemente is gerangskik volgens eienskappe soos massa en digtheid, asook hoe hulle chemies met mekaar verbind.</item>
+      </list>
+      <para id="id7471759"/>
+      <para id="id1814169">Opdrag</para>
+      <list id="id7989277" list-type="bulleted">
+        <item>Versamel inligting oor <emphasis effect="bold">Mendeleev </emphasis>(1834-1907) en hoe hy die periodieke tabel saamgestel het. </item>
+        <item>Voeg dit by julle plakkaat van <emphasis effect="bold">wetenskaplikes deur die eeue.</emphasis></item>
+      </list>
+      <para id="id7740210">http://smallfry.dmu.ac.uk/chem/tables</para>
+      <para id="id7822632">Klasaktiwiteit: Luistervaardighede</para>
+      <para id="id5192578">[LU 2.2]</para>
+      <para id="id5300811">Luister met aandag na die onderwyser se verduideliking en voltooi die volgende:</para>
+      <para id="id5343270">Die Periodieke Tabel</para>
+      <para id="id7196874">1. Die horisontale lyne staan bekend as  </para>
+      <para id="id8332815">2. Die vertikale lyne staan bekend as  </para>
+      <para id="id7599209">3. Waar op die periodieke tabel kom die metale voor?  </para>
+      <para id="id7715781">4. Watter metale word onder paraffien gestoor? Hoekom?  </para>
+      <para id="id8196514"/>
+      <para id="id7990177">5. Wat noem ons hierdie metale?  </para>
+      <para id="id5702238">6. Waar op die periodieke tabel kom die nie-metale voor?  </para>
+      <para id="id5366104">7. Watter nie-metaal word onder water gestoor? Hoekom?  </para>
+      <para id="id7355815"/>
+      <para id="id7134144">8. Waar op die tabel kom die meeste gasse voor? Verduidelik  </para>
+      <para id="id4736206"/>
+      <para id="id7724324"/>
+      <para id="id5737292">9. Watter gasse reageer nie op ander stowwe nie?  </para>
+      <para id="id8215901">10. Wat noem ons hierdie groep?  </para>
+      <para id="id7886190">11. Watter gas is die eenvoudigste en die ligste?  </para>
+      <para id="id5264263">12. Watter elemente verkeer by kamertemperatuur in vloeistoffase?  </para>
+      <para id="id8332898"/>
+      <para id="id7460587">13. Watter element sublimeer?  </para>
+      <para id="id3038768">14. In watter fase verkeer die meeste elemente by kamertemperatuur?  </para>
+      <para id="id6837279">15. Waarom plaas ons bepaalde elemente in dieselfde groep?  </para>
+      <para id="id3761207"/>
+      <para id="id7565188">Elemente in Simboolvorm</para>
+      <para id="id7013443">Simbole van elemente</para>
+      <table id="id6532874" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>Nr.</entry>
+              <entry>Naam</entry>
+              <entry>Simbool</entry>
+              <entry>Fase by kamer-temperatuur</entry>
+              <entry>Metaal of nie-metaal</entry>
+              <entry>Interessante Feit</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>Waterstof</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>Helium</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>Litium</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>Berillium</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>Boor</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry>Koolstof</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry>Stikstof</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>Suurstof</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>9</entry>
+              <entry>Fluoor</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>10</entry>
+              <entry>Neon</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>11</entry>
+              <entry>Natrium</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>12</entry>
+              <entry>Magnesium</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>13</entry>
+              <entry>Aluminium</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>14</entry>
+              <entry>Silikon</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>15</entry>
+              <entry>Fosfor</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>16</entry>
+              <entry>Swawel</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>17</entry>
+              <entry>Chloor</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>18</entry>
+              <entry>Argon</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>19</entry>
+              <entry>Kalium</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>20</entry>
+              <entry>Kalsium</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>26</entry>
+              <entry>Yster</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>29</entry>
+              <entry>Koper</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>30</entry>
+              <entry>Sink</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>35</entry>
+              <entry>Broom</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>47</entry>
+              <entry>Silwer</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>82</entry>
+              <entry>Lood</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>80</entry>
+              <entry>Kwik</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>28</entry>
+              <entry>Nikkel</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>92</entry>
+              <entry>Uraan</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>24</entry>
+              <entry>Chroom</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>53</entry>
+              <entry>Jodium</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>27</entry>
+              <entry>Kobalt</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>Goud</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id6961448" list-type="bulleted">
+        <item>Dra die name van die elemente en hulle simbole oor na die periodieke tabel op die volgende bladsy.</item>
+        <item>Kleur die tabel in om die verskillende groepe te toon. </item>
+      </list>
+      <para id="id6961402"/>
+      <para id="id6961361">PERIODIEKE TABEL</para>
+      <figure id="id8448932">
+        <media id="id8448932_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-1e7b.png" id="id8448932__onlineimage" height="475" width="765"/>
+        </media>
+      </figure>
+      <para id="id8448895">Groepwerk: Vasvra</para>
+      <para id="id8448883">Enige vrae wat nie beantwoord kan word nie, moet nagevors word.</para>
+      <para id="id8448867">Skryf die element in die blokkie langsaan neer.</para>
+      <table id="id8448871" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>1. Dit gee ‘n verblindende wit lig af as dit brand ( net soos in die “sterretjies” wat jy op jou verjaarsdag by ‘n bekende hamburger restaurant kry).</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>2. Die hoofmetaal wat hulle in ruimteskepe en satelliete soos die IRS gebruik.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>3. Die element wat, indien dit met suurstof in aanraking sal kom, roes sal vorm.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>4. Die gas waarmee jy ballonne by partytjies vul sodat hulle kan opstyg.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>5. Die metaal waarvan meeste elektriese geleiers gemaak word.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>6. Die element waarvan die atome die minste elektrone het.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>7. Die waardevolle metaal wat in juweliersware, muntstukke en fotografiese films gebruik word.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>8. Die geel nie-metaal wat in warmbronne en vulkane aangetref word en ‘n groot bydrae maak tot suurreën. Dit kom ook voor in vuurhoutjies en vuurwerke en in baie medisynes.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>9. ‘n Halogeen wat ‘n vloeistof is.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>10. Die onaktiewe gas in gloeilampe.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>11. ‘n Magnetiese metaal wat gebruik word in hitte-bestande legerings.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>12. ‘n Element wat gesonde tande verseker.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>13. Die nie-metaal wat spontaan aan die brand sal slaan as dit met suurstof meng (jy sien dit soms in die aand op die see).</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>14. Die element wat die meeste in rekenaars en transistors gebruik word.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>15. Die element wat in swembadreinigers voorkom en wat kieme doodmaak.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>16. Die element wat in alle organiese verbindings voorkom.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>17. Die element wat met ‘n violetlig brand in suurstof.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>18. Metaal waarmee die meeste badkamerkrane bedek word.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>19. Gas wat in buisligte gebruik word.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>20. Gifstof in insekdoders wat ook al deur moordenaars gebruik is (vind uit oor Daisy de Melcker).</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>21. Metaal waarvan vensterrame van veral huise by die see, asook koeldrankblikkies, gemaak word.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>22. Die volopste gas in die atmosfeer.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>23. Die edelgas wat met ‘n heldergroen kleur brand.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>24. Die metaalgedeelte van tafelsout.</entry>
+              <entry>.</entry>
+            </row>
+            <row>
+              <entry>25. Metaal waarvan dakbedekkings, asook wasbakke, gemaak word.</entry>
+              <entry>.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id6986936" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU 2</entry>
+              <entry/>
+              <entry>AS 2.1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6964187"> Het jy geweet? </para>
+      <para id="id6964203">Sekere elemente soos</para>
+      <para id="id6964208">KOOLSTOF</para>
+      <para id="id6964212">kom in verskillende vorms voor:</para>
+      <para id="id6964216">diamante</para>
+      <para id="id6964222">steenkool en die</para>
+      <para id="id6964226">grafiet in jou potlood!</para>
+      <para id="id6964231">http://education.jlab.org/itselemental/ele006</para>
+      <para id="id6964235">http://mineral.galleries.com</para>
+    </section>
+    <section id="id6964240">
+      <title>Assessering</title>
+      <para id="id6964247">LU 2</para>
+      <para id="id6964251">Wetenskaplike Kennis</para>
+      <para id="id6964256">Die leerder ken, interpreteer en pas wetenskaplike, tegnologiese en omgewingskennis toe.</para>
+      <para id="id6964261">Dit is bewys as die leerder:</para>
+      <para id="id6964265">2.1 sinvolle inligting kan onthou;</para>
+      <para id="id6964271">2.2 inligting in kategorieë kan plaas;</para>
+      <para id="id6964278">2.3 inligting kan interpreteer;</para>
+      <para id="id6964285">2.4 kennis kan toepas.</para>
+    </section>
+    <section id="id6964295">
+      <title>Memorandum</title>
+      <para id="id6964302"> DIE PERIODIEKE TABEL</para>
+      <para id="id6964307">1. periodes</para>
+      <para id="id6964314">2. groepe</para>
+      <para id="id6964320">3. links onder en om die oorgangsblok</para>
+      <para id="id6964326">4. Li, Na, K – reaktief met waterdamp</para>
+      <para id="id6964334">5. Alkali-metale</para>
+      <para id="id6964340">6. Regs onder</para>
+      <para id="id6964347">7. P – reaktief met suurstof</para>
+      <para id="id6964353">8. Heelregs</para>
+      <para id="id6964361">9. Gasse heel regs</para>
+      <para id="id6964368">10. Edelgasse</para>
+      <para id="id6964374">11. H</para>
+      <para id="id6964380">12. Br en Hg</para>
+      <para id="id6964387">13. Jodium</para>
+      <para id="id6964393">14. Vaste stof</para>
+      <para id="id6964400">15. Ooreenkomste in eienskappe</para>
+      <para id="id6964406">ELEMENTE IN SIMBOOLVORM</para>
+      <section id="id6964411">
+        <title>Simbole van elemente</title>
+        <table id="id6964417" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Nr</entry>
+                <entry>Naam</entry>
+                <entry>Simbool</entry>
+                <entry>Fase</entry>
+                <entry>metaal of nie-metaal</entry>
+                <entry>Interessante Feit</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>Waterstof</entry>
+                <entry>H</entry>
+                <entry>G</entry>
+                <entry/>
+                <entry>Ligste gas</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>Helium</entry>
+                <entry>He</entry>
+                <entry>G</entry>
+                <entry/>
+                <entry>Stabiele gas; balonne</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>Litium</entry>
+                <entry>Li</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>Berillium</entry>
+                <entry>Be</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>Boor</entry>
+                <entry>B</entry>
+                <entry>V</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>Koolstof</entry>
+                <entry>C</entry>
+                <entry>V</entry>
+                <entry/>
+                <entry>Alle organiese stowwe</entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>Stikstof</entry>
+                <entry>N</entry>
+                <entry>G</entry>
+                <entry/>
+                <entry>Volopste in atmosfeer</entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>Suurstof</entry>
+                <entry>O</entry>
+                <entry>G</entry>
+                <entry/>
+                <entry>Noodsaaklik respirasie</entry>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry>Fluoor</entry>
+                <entry>F</entry>
+                <entry>G</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry>Neon</entry>
+                <entry>Ne</entry>
+                <entry>G</entry>
+                <entry/>
+                <entry>Buisligte</entry>
+              </row>
+              <row>
+                <entry>11</entry>
+                <entry>Natrium</entry>
+                <entry>Na</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>12</entry>
+                <entry>Magnesium</entry>
+                <entry>Mg</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry>Brand wit lig</entry>
+              </row>
+              <row>
+                <entry>13</entry>
+                <entry>Aluminium</entry>
+                <entry>Al</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry>Ligte metaal</entry>
+              </row>
+              <row>
+                <entry>14</entry>
+                <entry>Silicon</entry>
+                <entry>Si</entry>
+                <entry>V</entry>
+                <entry/>
+                <entry>Sand</entry>
+              </row>
+              <row>
+                <entry>15</entry>
+                <entry>Fosfor</entry>
+                <entry>P</entry>
+                <entry>V</entry>
+                <entry/>
+                <entry>Brand spontaan</entry>
+              </row>
+              <row>
+                <entry>16</entry>
+                <entry>Swawel</entry>
+                <entry>S</entry>
+                <entry>V</entry>
+                <entry/>
+                <entry>Geel poeier</entry>
+              </row>
+              <row>
+                <entry>17</entry>
+                <entry>Chloor</entry>
+                <entry>Cl</entry>
+                <entry>G</entry>
+                <entry/>
+                <entry>Gifgas</entry>
+              </row>
+              <row>
+                <entry>18</entry>
+                <entry>Argon</entry>
+                <entry>Ar</entry>
+                <entry>G</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>19</entry>
+                <entry>Kalium</entry>
+                <entry>K</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>20</entry>
+                <entry>Kalsium</entry>
+                <entry>Ca</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry>Tande</entry>
+              </row>
+              <row>
+                <entry>26</entry>
+                <entry>Yster</entry>
+                <entry>Fe</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry>Hemoglobien;roes</entry>
+              </row>
+              <row>
+                <entry>29</entry>
+                <entry>Koper</entry>
+                <entry>Cu</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>30</entry>
+                <entry>Sink</entry>
+                <entry>Zn</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>35</entry>
+                <entry>Broom</entry>
+                <entry>Br</entry>
+                <entry>VL</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>47</entry>
+                <entry>Silwer</entry>
+                <entry>Ag</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry>Edelmetaal</entry>
+              </row>
+              <row>
+                <entry>82</entry>
+                <entry>Lood</entry>
+                <entry>Pb</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>80</entry>
+                <entry>Kwik</entry>
+                <entry>Hg</entry>
+                <entry>VL</entry>
+                <entry>M</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>28</entry>
+                <entry>Nickel</entry>
+                <entry>Ni</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry>Muntstukke</entry>
+              </row>
+              <row>
+                <entry>92</entry>
+                <entry>Uraan</entry>
+                <entry>U</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry>Kernreaktors</entry>
+              </row>
+              <row>
+                <entry>24</entry>
+                <entry>Chroom</entry>
+                <entry>Cr</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry>Krane</entry>
+              </row>
+              <row>
+                <entry>53</entry>
+                <entry>Jodium</entry>
+                <entry>I</entry>
+                <entry>V</entry>
+                <entry/>
+                <entry>Sublimeer</entry>
+              </row>
+              <row>
+                <entry>27</entry>
+                <entry>Kobalt</entry>
+                <entry>Co</entry>
+                <entry>V</entry>
+                <entry/>
+                <entry>Weerornamente</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Goud</entry>
+                <entry>Au</entry>
+                <entry>V</entry>
+                <entry>M</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6979354">GROEPWERK:</para>
+        <para id="id6979359">VASVRA</para>
+        <para id="id6979363">1. Mg</para>
+        <para id="id6979369">2. Titanium</para>
+        <para id="id6979376">3. Fe</para>
+        <para id="id6979382">4. He</para>
+        <para id="id6979388">5. Cu</para>
+        <para id="id6979395">6. H</para>
+        <para id="id6979401">7. Ag</para>
+        <para id="id6979407">8. S</para>
+        <para id="id6979413">9. Br</para>
+        <para id="id6979420">10. Ar</para>
+        <para id="id6979426">11. Co</para>
+        <para id="id6979432">12. Ca</para>
+        <para id="id6979438">13. P</para>
+        <para id="id6979445">14. Si</para>
+        <para id="id6979451">16. Cl</para>
+        <para id="id6979457">17. K</para>
+        <para id="id6979464">18. Cr</para>
+        <para id="id6979470">19. Ne</para>
+        <para id="id6979476">20. Sianied</para>
+        <para id="id6979483">21. Al</para>
+        <para id="id6979489">22. N</para>
+        <para id="id6979495">23. Kr</para>
+        <para id="id6979502">24. Na</para>
+        <para id="id6979508">25. sink</para>
+        <para id="id6979514">KLASAKTIWITEIT: </para>
+        <para id="id6979519">UITKEN VAN METALE EN NIE-METALE</para>
+        <para id="id6979523">Metale:</para>
+        <para id="id6979527">Nie-metale:</para>
+        <para id="id6979532">1. blink, hard</para>
+        <para id="id6979538">2. goud</para>
+        <para id="id6979545">3. aanvraag</para>
+        <para id="id6979551">4. studie van metale</para>
+        <para id="id6979558">5. allooi</para>
+        <para id="id6979564">6. </para>
+        <table id="id6979570" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>METALE</entry>
+                <entry>NIE-METALE</entry>
+              </row>
+              <row>
+                <entry>hard en blink</entry>
+                <entry>verkillende kleure; nie hard</entry>
+              </row>
+              <row>
+                <entry>plooibaar en smeebaar</entry>
+                <entry>Bros, breek</entry>
+              </row>
+              <row>
+                <entry>gelei hitte</entry>
+                <entry>Nee</entry>
+              </row>
+              <row>
+                <entry>gelei elektrisiteit</entry>
+                <entry>Nee</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6979698">7. plooibaar – lang drade uitgerek</para>
+        <para id="id6979705"> smeebaar – dun plate uitgeklop</para>
+      </section>
+    </section>
+  </content>
+</document>

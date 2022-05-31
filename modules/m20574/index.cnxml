@@ -1,0 +1,222 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elektriese eenhede</title>
+  <metadata>
+  <md:content-id>m20574</md:content-id><md:title>Elektriese eenhede</md:title>
+  <md:abstract/>
+  <md:uuid>b82cf642-79d5-463a-a94b-ed67d9d90797</md:uuid>
+</metadata>
+
+<content>
+    <section id="id15953907">
+      <title>NATUURWETENSKAPPE</title>
+      <para id="para-id15953907">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16592727">
+      <title>Graad 8</title>
+      <para id="para-id16592727">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16844209">
+      <title>ENERGIE: ELEKTRISITEIT, ENERGIE, WARMTE EN LIG</title>
+      <para id="para-id16844209">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id18386636">
+      <title>Module 9</title>
+      <para id="para-id18386636">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id18461684">
+      <title>ELEKTRISITEITSEENHEDE</title>
+      <section id="id15339012">
+        <title>Aktiwiteit:</title>
+        <para id="para-id15339012">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id17767598">
+        <title>Om elektrisiteitskoste te bereken</title>
+        <para id="para-id17767598">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id17106456">
+        <title>[LU 1.3, 2.4]</title>
+        <list id="id8749480" list-type="bulleted">
+          <title/>
+          <item>Ons weet nou dat elektrisiteit verkoop word in die eenheid <emphasis effect="bold">kilowatt per uur – kWh.</emphasis></item>
+        </list>
+        <para id="id7922840">1 kWh IS DIE HOEVEELHEID ELEKTRIESE ENERGIE WAT ‘N TOESTEL MET ‘N DRYWING VAN 1 kW IN EEN UUR GEBRUIK.</para>
+        <para id="id16982213">Om kWh te bereken, moet ons net die volgende formule gebruik:</para>
+        <para id="id17456277">kWh = drywing x tyd</para>
+        <para id="id17456281">Sê nou jy wil weet hoeveel energie jou haardroër (1 500W) in 20 minute gebruik.</para>
+        <para id="id16777798">kWh = drywing x tyd</para>
+        <para id="id16777802"> = 1 500w x 0.333</para>
+        <para id="id13555371"> = 0.5 kWh</para>
+        <para id="id16594006">Om die koste van die gebruik van ‘n elektriese toestel uit te werk, gebruik jy die volgende formule:</para>
+        <para id="id3641305">Koste = elektriese energie in kWh x koste van 1 kWh</para>
+        <para id="id19353714">As 1 kWh 50c kos, sal jou haardroër se gebruik die volgende koste meebring:</para>
+        <para id="id4659147">Koste = 0.5 kWh x 50c</para>
+        <para id="id9221673"> = 25c</para>
+        <para id="id8803198">Opdrag 1:</para>
+        <para id="id8803202">Kyk na die prentjies en bereken die koste van elke toestel. Gestel elektrisiteit kos R2,50 per kWh.</para>
+        <figure id="id18391796">
+          <media id="id18391796_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-4abd.png" id="id18391796__onlineimage" height="160" width="138"/>
+          </media>
+        </figure>
+        <para id="id18435127">Gloeilamp brand: 100 W vir 5 ure</para>
+        <figure id="id17979197">
+          <media id="id17979197_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-e245.png" id="id17979197__onlineimage" height="121" width="202"/>
+          </media>
+        </figure>
+        <para id="id8776226">TV aan: 80 W vir 5 ure</para>
+        <figure id="id15713549">
+          <media id="id15713549_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-6d9d.png" id="id15713549__onlineimage" height="124" width="176"/>
+          </media>
+        </figure>
+        <para id="id15547290">Yster aan: 1500 W vir 2 ure</para>
+      </section>
+    </section>
+    <section id="id4798433">
+      <title>Assessering </title>
+      <para id="id9338888">LU 1</para>
+      <para id="id10434508"><emphasis effect="bold">Wetenskaplike Ondersoek</emphasis>Die leerder is in staat om met selfvertroue op weetgierigheid oor natuurlike verskynsels te reageer, en om binne die konteks van wetenskap, tegnologie en die omgewing verbande te ondersoek en probleme op te los.</para>
+      <para id="id19441110">Dit word bewys as die leerder:</para>
+      <para id="id18134199">1.1 ondersoeke kan beplan;</para>
+      <para id="id12587319">1.2 ondersoeke kan uitvoer en data kan insamel;</para>
+      <para id="id15626648">1.3 data kan evalueer en bevindinge kan kommunikeer.</para>
+      <para id="id10070448">LU 2</para>
+      <para id="id7920601">Wetenskaplike KennisDie leerder ken, interpreteer en pas wetenskaplike, tegnologiese en omgewingskennis toe.</para>
+      <para id="id9250628">Dit word bewys as die leerder:</para>
+      <para id="id19459448">2.1 sinvolle inligting kan oproep;</para>
+      <para id="id17771230">2.2 inligting in kategorieë kan plaas;</para>
+      <para id="id10819731">2.3 inligting kan interpreteer;</para>
+      <para id="id8760462">2.4 kennis kan toepas.</para>
+      <para id="id13667495">LU 3</para>
+      <para id="id9022868">Wetenskap, Omgewing en die GemeenskapDie leerder is in staat om begrip van die onderlinge verband tussen wetenskap en tegnologie, die samelewing en die omgewing te toon.</para>
+      <para id="id5512544">Dit word bewys as die leerder:</para>
+      <para id="id17930082">3.1 wetenskap as ‘n menslike aktiwiteit kan verstaan;</para>
+      <para id="id11521620">3.2 volhoubare gebruik van die aarde se hulpbronne verstaan.</para>
+    </section>
+    <section id="id10291211">
+      <title>Memorandum</title>
+      <section id="id8818906">
+        <title/>
+        <para id="id17946413">Opdrag 1</para>
+        <para id="id17884338">ELEKTRISITEITSEENHEDE</para>
+        <para id="id13685873"><emphasis effect="bold"/>Die hoeveelheid elektrisiteit wat toestelle gebruik, hang af van die tipe toestel en hoe lank toestelle gebruik word. Oor die algemeen sal verhittingstoestelle soos oonde, ketels en geysers baie meer verbruik en ook meer kos. Baie skerp halogeen gloeilampe (“spotlights”) verbruik ook baie elektrisiteit.</para>
+        <para id="id9159186"><emphasis effect="bold"/>Toestelle met mikroskyfies in of klein motortjies soos elektriese tandeborsels en skeermesse sal weer minder gebruik.</para>
+        <para id="id10320297"><emphasis effect="bold"/>Elke toestel word gemerk met sy <emphasis effect="bold">watt-waarde</emphasis>. Ons noem dit die <emphasis effect="bold">DRYWYING </emphasis>van die toestel. Dit is gewoonlik op die omhulsel, soos by gloeilampe. Die 100 Watt-gloeilamp sal sterker brand as die 60-Watt gloeilamp. Die hoeveelheid Watt beteken eintlik hoeveel elektrisiteit per sekonde deur die toestel gebruik sal word.</para>
+        <para id="id17472647"><emphasis effect="bold"/>Aangesien Watt ‘n relatiewe klein eenheid is, praat ons eerder van <emphasis effect="bold">kilowatt (kW)</emphasis></para>
+        <list id="id8459889" list-type="bulleted">
+          <item>1 kW = 1000 W</item>
+        </list>
+        <para id="id17343865"><emphasis effect="bold"/>‘n Kilowatt-uur (kWh) word weer gelees as die hoeveelheid elektrisiteit wat ‘n 1kW toestel sou gebruik in een uur of ‘n 100 W toestel oor 10 ure. Dit is ook die eenheid waarin elektrisiteit aan die verbruiker verkoop word.</para>
+        <para id="id15527971"><emphasis effect="bold"/>So sou ‘n 100 W gloeilamp vir 10 ure brand. Jou pa se elektriese boor ( 500W) sal net vir 2 ure kon werk met 1kWh.</para>
+        <para id="id4561430">Ander toestelwaardes:</para>
+        <table id="id4561434" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>TOESTEL</entry>
+                <entry>AANGEDUIDE DRYWING</entry>
+                <entry>HOOG OF LAAG?</entry>
+              </row>
+              <row>
+                <entry>Radio</entry>
+                <entry>26/32 W</entry>
+                <entry>L</entry>
+              </row>
+              <row>
+                <entry>Tv</entry>
+                <entry>80 W</entry>
+                <entry>L</entry>
+              </row>
+              <row>
+                <entry>Strykyster</entry>
+                <entry>1200 W</entry>
+                <entry>H</entry>
+              </row>
+              <row>
+                <entry>Sakrekenaar</entry>
+                <entry>0.0006 W</entry>
+                <entry>Baie L</entry>
+              </row>
+              <row>
+                <entry>Rekenaar</entry>
+                <entry>280 W</entry>
+                <entry>H</entry>
+              </row>
+              <row>
+                <entry>Boor</entry>
+                <entry>500 W</entry>
+                <entry>H</entry>
+              </row>
+              <row>
+                <entry>Stoof</entry>
+                <entry>1000 W</entry>
+                <entry>H</entry>
+              </row>
+              <row>
+                <entry>Mikrogolfoond</entry>
+                <entry>750 W</entry>
+                <entry>H</entry>
+              </row>
+              <row>
+                <entry>Ketel</entry>
+                <entry>?</entry>
+                <entry>H</entry>
+              </row>
+              <row>
+                <entry>Broodrooster</entry>
+                <entry>?</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id7698820"> Ons weet nou dat elektrisiteit in die eenheid <emphasis effect="bold">kilowatt per uur </emphasis>verkoop<emphasis effect="bold"> – kW/uur</emphasis></para>
+        <list id="id3487658" list-type="bulleted">
+          <item>1 kWh is die hoeveelheid elektriese energie wat ‘n toestel met ‘n drywing van 1 kW in een uur gebruik.</item>
+        </list>
+        <para id="id13662600"> Om kWh te bereken, moet ons net die volgende formule gebruik:</para>
+        <list id="id15331458" list-type="bulleted">
+          <item>KWh = drywing x tyd</item>
+        </list>
+        <para id="id13340774"> Om te bereken hoeveel energie ‘n haardroër (1500W) gebruik het in 20 minute</para>
+        <list id="id17903182" list-type="bulleted">
+          <item>KWh = drywing x tyd</item>
+          <item>1 500w /1000w x 0.3</item>
+          <item>= 0.45 kWh</item>
+        </list>
+        <para id="id9259869"> Om die koste van die gebruik van ‘n elektriese toestel uit te werk, word die volgende formule gebruik:</para>
+        <list id="id13069012" list-type="bulleted">
+          <item>Koste = elektriese energie in kWh x koste van 1 kWh</item>
+        </list>
+        <para id="id10714921"> As 1 kWh 50c kos, sal ‘n haardroër se gebruik die volgende kos:</para>
+        <list id="id10426889" list-type="bulleted">
+          <item>Koste = 0.45 kWh x 50c</item>
+          <item> = R 2,25</item>
+        </list>
+        <para id="id12352813">
+          <figure id="id14203083">
+            <media id="id14203083_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics4-bb75.png" id="id14203083__onlineimage" height="213" width="192"/>
+            </media>
+          </figure>
+        </para>
+      </section>
+    </section>
+  </content>
+</document>
