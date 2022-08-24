@@ -1,3 +1,73 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11049</md:content-id>  <md:title>Natuurwetenskappe Graad 8</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>af</md:language>              <md:uuid>830e0f0d-9541-4a4d-abc1-b346ed84b726</md:uuid>
-<md:slug>natuurwetenskappe-graad-8</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Kwartaal 1</md:title>                                <col:content>                    <col:module document="m20515"/>                            <col:module document="m20527"/>                            <col:module document="m20537"/>                            <col:module document="m20531"/>                            <col:module document="m20542"/>                            <col:module document="m20549"/>                            <col:module document="m20579"/>                            <col:module document="m20567"/>                            <col:module document="m20573"/>                            <col:module document="m20574"/>                            <col:module document="m20576"/>                            <col:module document="m20578"/>                            <col:module document="m20577"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 2</md:title>                                <col:content>                    <col:module document="m20836"/>                            <col:module document="m31832"/>                            <col:module document="m20838"/>                            <col:module document="m20839"/>                            <col:module document="m20840"/>                            <col:module document="m21145"/>                            <col:module document="m31831"/>                            <col:module document="m20844"/>                            <col:module document="m20847"/>                            <col:module document="m20842"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 3</md:title>                                <col:content>                    <col:module document="m20851"/>                            <col:module document="m20852"/>                            <col:module document="m20854"/>                            <col:module document="m20858"/>                            <col:module document="m20865"/>                            <col:module document="m20874"/>                            <col:module document="m20876"/>                            <col:module document="m20877"/>                            <col:module document="m20878"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 4</md:title>                                <col:content>                    <col:module document="m20879"/>                            <col:module document="m20882"/>                            <col:module document="m31835"/>                            <col:module document="m20884"/>                            <col:module document="m20890"/>                            <col:module document="m20891"/>                            <col:module document="m20901"/>                            <col:module document="m20902"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11049</md:content-id>
+    <md:title>Natuurwetenskappe Graad 8</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>af</md:language>
+    <md:uuid>830e0f0d-9541-4a4d-abc1-b346ed84b726</md:uuid>
+    <md:slug>natuurwetenskappe-graad-8</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Kwartaal 1</md:title>
+      <col:content>
+        <col:module document="m20515"/>
+        <col:module document="m20527"/>
+        <col:module document="m20537"/>
+        <col:module document="m20531"/>
+        <col:module document="m20542"/>
+        <col:module document="m20549"/>
+        <col:module document="m20579"/>
+        <col:module document="m20567"/>
+        <col:module document="m20573"/>
+        <col:module document="m20574"/>
+        <col:module document="m20576"/>
+        <col:module document="m20578"/>
+        <col:module document="m20577"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 2</md:title>
+      <col:content>
+        <col:module document="m20836"/>
+        <col:module document="m31832"/>
+        <col:module document="m20838"/>
+        <col:module document="m20839"/>
+        <col:module document="m20840"/>
+        <col:module document="m21145"/>
+        <col:module document="m31831"/>
+        <col:module document="m20844"/>
+        <col:module document="m20847"/>
+        <col:module document="m20842"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 3</md:title>
+      <col:content>
+        <col:module document="m20851"/>
+        <col:module document="m20852"/>
+        <col:module document="m20854"/>
+        <col:module document="m20858"/>
+        <col:module document="m20865"/>
+        <col:module document="m20874"/>
+        <col:module document="m20876"/>
+        <col:module document="m20877"/>
+        <col:module document="m20878"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 4</md:title>
+      <col:content>
+        <col:module document="m20879"/>
+        <col:module document="m20882"/>
+        <col:module document="m31835"/>
+        <col:module document="m20884"/>
+        <col:module document="m20890"/>
+        <col:module document="m20891"/>
+        <col:module document="m20901"/>
+        <col:module document="m20902"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
